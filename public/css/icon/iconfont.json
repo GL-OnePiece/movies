@@ -1,0 +1,23 @@
+{
+  "id": "2971686",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "637802",
+      "name": "下拉箭头",
+      "font_class": "xialajiantou",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "5387553",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "eafe",
+      "unicode_decimal": 60158
+    }
+  ]
+}
